@@ -1,0 +1,25 @@
+body{
+  width: 70%;
+  margin: auto;
+
+}
+section{
+  width: 66%;
+}
+
+aside{
+  width: 33%;
+}
+
+@@media (max-width: 1000px) {
+  body{
+    width: 80%
+  }
+
+}
+@@media (max-width: 650px) {
+  body{
+    width: 100%
+  }
+
+}
